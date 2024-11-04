@@ -5,7 +5,7 @@
 
 
 # DEPLOY:
-* Front e Back-end:
+# Front e Back-end:
 Para realizar o deploy do front-end e back-end, foi utilizada a plataforma de hospedagem, GitHub Pages.
 - Como utilizar?
 É necessário que você acesse o site "Github.com", faça seu login (caso não tenha um, cadastre-se).
@@ -22,7 +22,7 @@ Para realizar o deploy do front-end e back-end, foi utilizada a plataforma de ho
 - O link será mais ou menos assim "https://nomeusuario.github.io/nomeProjeto/", com seu nome de usuário antes de ".github.io/" e o nome do projeto após a barra.
 
 
-* Banco de dados:
+# Banco de dados:
 Para realizar o deploy do banco de dados, foi utilizada a plataforma de hospedagem, Clever Clouds.
 - Como utilizar?
 É necessário que você acesse o site "https://www.clever-cloud.com", após isso clique em "Free Trial", no caso, um teste grátis. Você possui a opção de se cadastrar com a conta do GitHub ou com sua conta do google e criando uma senha.
